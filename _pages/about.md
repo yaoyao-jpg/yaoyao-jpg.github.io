@@ -12,7 +12,7 @@ redirect_from:
 
 科研方向主要为深度学习方向的计算机视觉。未来希望直博，进行进一步计算机视觉的科研。
 
-[个人简历](https://yaoyao-jpg.github.io/files/CV.pdf))
+[个人简历](https://yaoyao-jpg.github.io/files/CV.pdf)
 
 <!-- 论文
 ======
